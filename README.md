@@ -17,3 +17,5 @@ The Python Files which judge the Algorithmic Complexity of the previous two mode
 
 After six months the company wants to know if the algorithms made a difference. 
 Create a report describing the differences of Algorithmic Complexity, performance, and resource usage (more specfically memory usage).
+
+This was done in my First year of University
